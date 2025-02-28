@@ -1,2 +1,4 @@
-# .github
-INT Intelligent Networked Transactions Whitepaper
+INT ReadMe GitHube
+Intelligent Networked Transactions 
+Red de transacciones inteligente 
+
